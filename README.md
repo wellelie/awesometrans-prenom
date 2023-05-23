@@ -9,5 +9,5 @@ Une fois que la longue procédure de changement de prénom s’est terminée par
 
 # Après la decision positive
 Cependant, le périple n’est pas terminé, car il reste à demander le changement de votre identité auprès de toutes les administrations ou entreprises vous connaissant sous votre deadname. Vous trouverez la liste de celles dont j’utilise, avec leurs procédures sur ce lien. Vous pouvez me signaler des oublis, erreurs dans l’onglet Issues. Ou par mail: elie @ eliemail.com 
-## Liste des endroits à changer [ici](https://github.com/wellelie/awesometrans-prenom/main/apres-le-cec.mdh "apres le cec")
+## Liste des endroits à changer [ici](https://github.com/wellelie/awesometrans-prenom/blob/main/apres-le-cec.md#preambule)
 
