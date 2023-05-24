@@ -26,6 +26,9 @@ Il faudra envoyer la pièce d’identité mise à jour ensuite.
 - Monabanq: En cours.
 - Paypal: A la suite de mon premier e-mail, on m’a demandé d’envoyer ma nouvelle carte d’identité. Il faudra donc insister, ou attendre. 
 
+## Diplômes 
+- Baccalaureat 
+
 ## Énergies
 - Engie: Discussion sur le chat avec une personne de l’équipe clientèle d’Engie. J’ai pu joindre une photo de la décision de l’OEC. 
 
