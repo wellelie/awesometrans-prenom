@@ -21,7 +21,7 @@ Liste des endroits où changer son prénom une fois la décision positive reçue
 ### Mutuelles
 
 ## Banques
-- Banque Pop: Simple e-mail [exemple de Transposé•e•s](https://transposées.eu/parcours:documents:prenom-usuel-banque) à votre conseiller•e, avec une copie de la décision de l’Officier d’Etat Civil. Votre conseiller•e transférera la demande au siège social de la Banque Pop. Une fois la demande prise en compte par le siège, les modifications sur vos RIB, comptes et cartes seront réalisées rapidement. 
+- Banque Pop: Simple e-mail ([exemple de Transposé•e•s](https://transposées.eu/parcours:documents:prenom-usuel-banque)) à votre conseiller•e, avec une copie de la décision de l’Officier d’Etat Civil. Votre conseiller•e transférera la demande au siège social de la Banque Pop. Une fois la demande prise en compte par le siège, les modifications sur vos RIB, comptes et cartes seront réalisées rapidement. 
 Il faudra envoyer la pièce d’identité mise à jour ensuite. 
 - Monabanq: En cours.
 - Paypal: A la suite de mon premier e-mail, on m’a demandé d’envoyer ma nouvelle carte d’identité. Il faudra donc insister, ou attendre. 
