@@ -35,7 +35,7 @@ Il faudra envoyer la pièce d’identité mise à jour ensuite.
 ## Pièces d’identité 
 - Carte d'identité (CNI)
 - Passeport
-- Permis: Une fois que vous avez reçu votre acte de naissance modifié (demandez le en ligne ici), mettez à jour votre compte France Connect (voir comment faire [plus haut](#Administrations)) puis connectez-vous sur le site de l’Agence Nationale des Services de Paiement (ANTS). Demandez la création d’un nouveau permis en sélectionnant la mention « Déclarer un changement d’état civil ». Pensez à faire une e-photo d’identité (une photo dans un photomaton que vous devrez signer) son numéro devra être indiqué dans le formulaire de nouvelle demande. La commande du permis pour cette raison est gratuite (je crois)
+- Permis: Une fois que vous avez reçu votre acte de naissance modifié (demandez le en ligne ici), mettez à jour votre compte France Connect (voir comment faire [plus haut](#Administrations)) puis connectez-vous sur le site de l’Agence Nationale des Services de Paiement (ANTS). Demandez la création d’un nouveau permis en sélectionnant la mention « Déclarer un changement d’état civil ». Pensez à faire une e-photo d’identité (une photo dans un photomaton que vous devrez signer) son numéro devra être indiqué dans le formulaire de nouvelle demande. La commande du permis pour cette raison est gratuite.
 
 ## Transports 
 - Dott (trotinettes)
