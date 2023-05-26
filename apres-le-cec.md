@@ -9,7 +9,7 @@ Liste des endroits où changer son prénom une fois la décision positive reçue
 
 ## Administrations 
 - CAF
-- FranceConnect: Demander la recrification de l'Etat Civil, une fois reception de votre nouvel acte de naissance: [Lien Service Public](https://www.service-public.fr/particuliers/vosdroits/R49454)
+- FranceConnect: Demander la rectification de l'Etat Civil, une fois reception de votre nouvel acte de naissance: [Lien Service Public](https://www.service-public.fr/particuliers/vosdroits/R49454)
 - MDPH
 - Pôle Emploi 
 - Sécu
